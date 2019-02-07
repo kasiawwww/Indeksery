@@ -16,10 +16,17 @@ namespace Indeksery
             names[1] = "Aśka";
             names[2] = "Krzyś";
 
+            Year years = new Year(3);
+            years["Roman"] = 1980;
+
+
             for (int i = 0; i < names.Count; i++)
             {
                 Console.WriteLine(names[i]);
             }
+
+            Console.WriteLine("------------------");
+            Console.WriteLine(years["Roman"]);
             Console.Read();
         }
     }
