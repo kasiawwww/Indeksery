@@ -6,14 +6,8 @@ namespace IndexersClasses
 
     {
         private string[] names;
-        public int Count
-        {
-           get
-            {
-               return names.Length;
-            }
-        }
-
+        public int Count => names.Length;
+      
         public Names(int numberOfValues)
         {
            names = new string[numberOfValues];
