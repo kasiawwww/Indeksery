@@ -49,5 +49,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\IndexersClasses\IndexersClasses.csproj">
+      <Project>{e7afd7a8-182d-475f-a10f-1f7115dc2cd3}</Project>
+      <Name>IndexersClasses</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
