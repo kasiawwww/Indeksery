@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indeksery", "Indeksery\Indeksery.csproj", "{FBBFD808-CD33-4CC5-AFF1-C9D3FF86A19D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBBFD808-CD33-4CC5-AFF1-C9D3FF86A19D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBBFD808-CD33-4CC5-AFF1-C9D3FF86A19D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBBFD808-CD33-4CC5-AFF1-C9D3FF86A19D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBBFD808-CD33-4CC5-AFF1-C9D3FF86A19D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {973430A9-4255-49E3-9AD7-A8BCCCBDB4DA}
+	EndGlobalSection
+EndGlobal
